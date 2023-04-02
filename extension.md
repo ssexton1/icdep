@@ -12,7 +12,7 @@ To specify whether contents are ASCII text, Unicode text, or binary values each 
 
 	ASCII text -> 2
 
-The reason we use numbers instead of letters in this case is to not limit the amount of future encoding types that may be invented and wanted to be used. Say if we used the first letter for the encoding type. A new encoding type that started with the same letter wouldn’t be able to be used. We would also only be able to use 26 unique encoding types. By using numbers instead, we aren’t limited by encoding types and the message can still be interpreted properly.
+This value will be in the bottom left corner of the notecard. The reason we use numbers instead of letters in this case is to not limit the amount of future encoding types that may be invented and wanted to be used. Say if we used the first letter for the encoding type. A new encoding type that started with the same letter wouldn’t be able to be used. We would also only be able to use 26 unique encoding types. By using numbers instead, we aren’t limited by encoding types and the message can still be interpreted properly.
 
 ## Keep a record of what nodes the card has passed through
 
